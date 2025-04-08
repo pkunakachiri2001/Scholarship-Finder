@@ -1,0 +1,7 @@
+# Exclude sensitive data
+.env
+node_modules/
+.DS_Store
+
+# Exclude API key from script.js
+script.js

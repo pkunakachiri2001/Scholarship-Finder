@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scholarship Pro | AI-Powered Funding Finder</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Scholarship Pro</h1>
+      <p class="encouragement">
+        🚀 Unlock Your Academic Potential! We've helped over 250,000 students secure $180M+ in funding. 
+        Start your journey to financial freedom today.
+      </p>
+    </header>
+    
+    <div class="content">
+      <section class="form-section">
+        <form id="scholarshipForm">
+          <div class="form-group">
+            <input type="text" id="name" required placeholder=" " />
+            <label for="name">Full Name</label>
+          </div>
+          <div class="form-group">
+            <input type="email" id="email" required placeholder=" " />
+            <label for="email">Academic Email</label>
+          </div>
+         <div class="form-group">
+  <input type="text" id="field" list="field-suggestions" required placeholder=" " />
+  <label for="field">Field of Study</label>
+  <datalist id="field-suggestions">
+    <option value="Computer Science">
+    <option value="Electrical Engineering">
+    <option value="Mechanical Engineering">
+    <option value="Business Administration">
+    <option value="Biomedical Science">
+    <option value="Environmental Science">
+    <option value="Artificial Intelligence">
+    <option value="Data Science">
+    <option value="Digital Marketing">
+    <option value="Graphic Design">
+  </datalist>
+</div>
+          <div class="form-group">
+            <textarea id="interests" rows="3" required placeholder=" "></textarea>
+            <label for="interests">Achievements & Interests</label>
+          </div>
+          <button type="submit">
+            Discover Opportunities <i class="fas fa-arrow-right"></i>
+          </button>
+        </form>
+        <div id="result" class="result" style="display: none;"></div>
+      </section>
+
+      <section class="fun-info">
+        <h2>Scholarship Success Toolkit</h2>
+        <ul>
+          <li>💰 Average award: $7,400 – multiple applications increase success rate by 300%</li>
+          <li>🎯 Deadline tracking: 85% of applicants miss early-bird deadlines</li>
+          <li>📈 Our AI matches 97% accuracy with vetted opportunities</li>
+          <li>🏆 Featured scholarships: Gates Millennium, Rhodes, Fulbright</li>
+          <li>💡 Pro Tip: Personalize each application - generic apps have 12% success rate</li>
+          <li>🔐 Secure storage: We'll remind you about renewals and deadlines</li>
+        </ul>
+      </section>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
