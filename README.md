@@ -72,7 +72,7 @@ Interests: {interests}
 ```
 
 ## 🌐 Live Demo
-[Try it Now](https://your-username.github.io/Scholarship-Finder) (Requires API key in local copy)
+[Try it Now](https://pkunaka2001.github.io/Scholarship-Finder) (Requires API key in local copy)
 
 ## 📂 Project Structure
 ```
@@ -85,8 +85,6 @@ Scholarship-Finder/
 └── README.md           # You are here
 ```
 
-## 📄 License
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 - OpenAI for GPT-4 API
