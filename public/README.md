@@ -8,7 +8,7 @@ Edit
 [![GitHub License](https://img.shields.io/github/license/pkunakachiri2001/Scholarship-Finder)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/pkunakachiri2001/Scholarship-Finder)](https://github.com/pkunakachiri2001/Scholarship-Finder/stargazers)
 
-<img src="assets/screen1.png" alt="Application Screenshot" width="800"/>
+![Screenshot](https://user-images.githubusercontent.com/.../screen1.png)
 ---
 DEMO VIDEO
 https://youtu.be/pRm8fObvhp0
