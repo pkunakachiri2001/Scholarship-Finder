@@ -91,27 +91,27 @@ Edit
 node server.js
 Open Your Browser: Visit http://localhost:3000 to use the Scholarship Pro app.
 
-🤖 Prompt Engineering
-System Prompt Example:
+🤖 **Prompt Engineering**
+**System Prompt Example:**
 
 text
 Copy
 Edit
-Act as a scholarship advisor with 10+ years of experience. Recommend 3 scholarship opportunities matching the student's profile. Include:
+_**Act as a scholarship advisor with 10+ years of experience. Recommend 3 scholarship opportunities matching the student's profile. Include:
 1. Scholarship Name
 2. Eligibility Requirements
 3. Award Amount
 4. Application Deadline
-Format as a numbered list with markdown bold headers.
-User Prompt Template:
+Format as a numbered list with markdown bold headers.**___
+**User Prompt Template:**
 
 text
 Copy
 Edit
-Student Profile:
+**Student Profile:
 Name: {name}
 Field: {field}
-Interests: {interests}
+Interests: {interests}**
 This ensures that your AI returns consistent, clear, and formatted recommendations.
 
 ⚙️ API Integration & Security
