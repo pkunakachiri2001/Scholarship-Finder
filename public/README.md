@@ -9,9 +9,8 @@ Edit
 [![GitHub Stars](https://img.shields.io/github/stars/pkunakachiri2001/Scholarship-Finder)](https://github.com/pkunakachiri2001/Scholarship-Finder/stargazers)
 
 <img src="assets/screen1.png" alt="Application Screenshot" width="800"/>
-
 ---
-
+<video src="https://youtu.be/pRm8fObvhp0" .alt = "DEMO VIDEO" width="800"/>
 ## 📌 Key Features
 - **AI-Powered Matching:**  
   Leverages a powerful LLM API (e.g., Google Gemini or OpenAI GPT-4) for intelligent scholarship recommendations.
