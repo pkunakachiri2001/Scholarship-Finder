@@ -11,7 +11,7 @@ Edit
 <img src="https://raw.githubusercontent.com/pkunakachiri2001/Scholarship-Finder/main/assets/screen1.png" alt="Application Screenshot" width="800">
 
 ## Demo Video
-[![DEMO VIDEO click here](https://img.youtube.com/vi/pbm8f0bvhp0/0.jpg)]([https://youtu.be/pbm8f0bvhp0](https://youtu.be/dTtJ-nlz5Cs))
+[![DEMO VIDEO click here](https://img.youtube.com/vi/pbm8f0bvhp0/0.jpg)](https://youtu.be/dTtJ-nlz5Cs)
 
 ## 📌 Key Features
 - **AI-Powered Matching:**  
