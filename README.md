@@ -1,8 +1,5 @@
-modify any sections as needed:
 https://pkunaka1engineer.me/
-markdown
-Copy
-Edit
+
 # 🚀 Scholarship Pro - AI-Powered Funding Finder
 
 [![GitHub License](https://img.shields.io/github/license/pkunakachiri2001/Scholarship-Finder)](LICENSE)
